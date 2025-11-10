@@ -178,3 +178,8 @@ This project demonstrates my ability to work with **relational databases, data c
 
 ## 🏷️ GitHub Repository Topics
 `sql` • `data-analysis` • `postgresql` • `election-data` • `data-cleaning` • `joins` • `ctes` • `window-functions` • `end-to-end-project` • `data-analytics`
+
+---
+
+⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
+
