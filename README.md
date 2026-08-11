@@ -3,12 +3,7 @@
 This project presents a **comprehensive Election Data Analysis** using **SQL**, designed to uncover deep insights into **party performance, voter trends, and constituency-level outcomes** across India.  
 It showcases the **end-to-end workflow** of a real-world data analyst — from **data modeling and database creation** to **complex analytical queries and visualization-ready outputs**.
 
-![SQL](https://img.shields.io/badge/Language-SQL-blue)
-![Database](https://img.shields.io/badge/Database-PostgreSQL-green)
-![Data Analysis](https://img.shields.io/badge/Focus-Data_Analysis-orange)
-![ETL](https://img.shields.io/badge/Process-ETL-yellow)
-![Queries](https://img.shields.io/badge/Queries-Advanced_SQL-purple)
-![Tool](https://img.shields.io/badge/Tool-dbdiagram.io-lightgrey)
+![SQL](https://img.shields.io/badge/Language-SQL-blue) ![Database](https://img.shields.io/badge/Database-PostgreSQL-green) ![Data Analysis](https://img.shields.io/badge/Focus-Data_Analysis-orange) ![ETL](https://img.shields.io/badge/Process-ETL-yellow) ![Queries](https://img.shields.io/badge/Queries-Advanced_SQL-purple) ![Tool](https://img.shields.io/badge/Tool-dbdiagram.io-lightgrey)
 
 ---
 
@@ -26,14 +21,20 @@ To analyze large-scale election data and extract **meaningful insights** such as
 ## 🧩 Project Structure
 
 ```
-├── Create_table_query.sql    # All CREATE TABLE Query
-├── Problems.txt              # List of analysis questions
-├── Solutions.sql             # All SQL analysis queries
-├── Election_data.zip         # Contains 5 CSV datasets
-├──📂images/
-│ ├── ER_Diagram.png          # Schema diagram
-│ └── Output.png              # Query Output example
-└── README.md                 # Project documentation
+├── README.md                     → Project documentation
+│
+├── Data/ 
+│    └── Election_data.zip        → Contains 5 CSV datasets
+│
+├── Docs/ 
+│    └── Problems.txt             → List of analysis questions
+├── SQL/
+│    ├── Create_table_query.sql   → SQL schema for creating tables  
+│    └── Solutions.sql            → All SQL analysis queries
+│
+└── images/
+    ├── ER_Diagram.png          # Schema diagram
+    └── Output.png              # Query Output example
 
 ```
 ---
@@ -176,10 +177,4 @@ This project demonstrates my ability to work with **relational databases, data c
 
 ---
 
-## 🏷️ GitHub Repository Topics
-`sql` • `data-analysis` • `postgresql` • `election-data` • `data-cleaning` • `joins` • `ctes` • `window-functions` • `end-to-end-project` • `data-analytics`
-
----
-
 ⭐ *If you found this project helpful, feel free to star the repo and connect with me for collaboration!*
-
